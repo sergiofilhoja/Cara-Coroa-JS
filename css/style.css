@@ -1,0 +1,26 @@
+body {
+    background-color: #222;
+    color: #FFF;
+}
+
+#titulo {
+    text-align: center;
+    font-weight: bold;
+}
+
+#imagemMoeda {
+    width: 150px;
+}
+
+#botaoJogar {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Alinhando itens do conteudo */
+#conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
